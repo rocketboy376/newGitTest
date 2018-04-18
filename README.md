@@ -1,1 +1,2 @@
 # newGitTest
+second line
